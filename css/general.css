@@ -1,0 +1,25 @@
+html {
+    min-height:100%;
+}
+
+body {
+    text-align: center;
+    color: white;
+    background-color: #060647;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    animation: opening 1s ease-in-out;
+}
+
+input {
+    color: #171717;
+}
+
+/* Animations */
+@keyframes opening {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
