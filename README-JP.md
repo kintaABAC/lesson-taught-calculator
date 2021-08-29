@@ -1,5 +1,5 @@
 # lesson-taught-calculator
-こちらが英語のREAMEファイルになります。[English language](README.md)  
+こちらが英語のREADMEファイルになります。[English language](README.md)  
 タイにあるModulo語学学校専用の計算機です。HTML、CSS (SASS)、Javascripを使って作りました。
 
 ## 目次
