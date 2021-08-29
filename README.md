@@ -2,14 +2,14 @@
 Here is the same README for [Japanese language](README-JP.md).  
 Simple calculator for Modulo Language School in Thailand created with HTML, CSS (SASS), and JavaScript.
 ## Table of Contents
-* General Information
-* Used Technologies
-* How to Use
-* Screenshots
-* Released Date
-* Project URL
-* Third Party Code
-* Contact
+* [General Information](#general-information)
+* [Used Technologies](#used-technologies)
+* [How to Use](#how-to-use)
+* [Screenshots](#screenshots)
+* [Released Date](#released-date)
+* [Project URL](#project-url)
+* [Third Party Code](#third-party-code)
+* [Contact](#contact)
 
 ## General Information
 The calculator has created to make Modulo employees easy to calculate total lessons. In addtion to online teaching and teaching at firm, there are 4 branches at the school. This made us difficult to calculate each branch's lesson by our own. Also, The calculator has made for me to practice CSS methodology **BEM** together with **SCSS** and **JavaScript**.
