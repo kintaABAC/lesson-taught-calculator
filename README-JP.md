@@ -31,13 +31,13 @@
 ![合計数ページ](./screenshots-README/record-page.png)
 
 ## リリースした日付
-- 初めのリリース: 2021年、8月15日（ Netlifyにて (https://www.netlify.com)）
+- 初めのリリース: 2021年、8月15日（ Netlifyにて (https://www.netlify.com)
 
 ## プロジェクトURL
 https://lessons-taught-calc.netlify.app
 
 ## 第三者から引用したコード
-- バブルアニメーション（ codePen: https://codepen.io）
+- バブルアニメーション（ codePen: https://codepen.io)
 
 ## コンタクト
 [Kinta Nakai](https://www.linkedin.com/in/kinta-nakai-756b0b144) - 連絡お待ちしております！
